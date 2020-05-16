@@ -1,0 +1,16 @@
+{
+  "name": "bookland",
+  "version": "1.0.0",
+  "description": "book service that use scraping",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://JoseRangel@bitbucket.org/ideasdenegocio/bookland.git"
+  },
+  "author": "Jose Rangel",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/ideasdenegocio/bookland#readme"
+}
